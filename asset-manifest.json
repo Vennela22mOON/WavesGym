@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/WavesGym/static/css/main.dd9e2b78.css",
+    "main.js": "/WavesGym/static/js/main.b8973791.js",
+    "static/js/563.cbeda223.chunk.js": "/WavesGym/static/js/563.cbeda223.chunk.js",
+    "static/media/Yoga4.jpeg": "/WavesGym/static/media/Yoga4.6db77b8419a5a3c8fb42.jpeg",
+    "static/media/Gym6.jpg": "/WavesGym/static/media/Gym6.d6350ae90620ef8c5043.jpg",
+    "static/media/Gym4.jpg": "/WavesGym/static/media/Gym4.1d9c2cc879a34a0c5ebb.jpg",
+    "static/media/yoga1.jpg": "/WavesGym/static/media/yoga1.91520e0362993084926a.jpg",
+    "static/media/Instagram.jpg": "/WavesGym/static/media/Instagram.7d76b49d8dbe67afd6d0.jpg",
+    "static/media/tranform1.jpg": "/WavesGym/static/media/tranform1.50f6780db6809f4e5960.jpg",
+    "static/media/Gym2.jpg": "/WavesGym/static/media/Gym2.e3a67e2011c98e4157ee.jpg",
+    "static/media/Yoga3.webp": "/WavesGym/static/media/Yoga3.5263bf1f5da7f3696f36.webp",
+    "static/media/transform3.jpg": "/WavesGym/static/media/transform3.392843399309c8a01a5f.jpg",
+    "static/media/Yoga2.webp": "/WavesGym/static/media/Yoga2.56d1b3e5a658acbb84f4.webp",
+    "static/media/Gym5.webp": "/WavesGym/static/media/Gym5.c07786e9baee587c215a.webp",
+    "static/media/Yoga5.avif": "/WavesGym/static/media/Yoga5.f14aadabc9dce7a4df6e.avif",
+    "static/media/Days.webp": "/WavesGym/static/media/Days.5926801d56a1a103c714.webp",
+    "static/media/Bg1.avif": "/WavesGym/static/media/Bg1.6f68c9710bdec2851490.avif",
+    "static/media/transform2.avif": "/WavesGym/static/media/transform2.ec13c0f5e6543bd3dcea.avif",
+    "static/media/Parking.jpg": "/WavesGym/static/media/Parking.b4e4e7559c4d3345e3c4.jpg",
+    "static/media/Yoga6.avif": "/WavesGym/static/media/Yoga6.d647150feaa17c8888d9.avif",
+    "static/media/Body1.webp": "/WavesGym/static/media/Body1.e856e6eb8dfce6cd0192.webp",
+    "static/media/twitter.png": "/WavesGym/static/media/twitter.112d93100806a70e5d28.png",
+    "static/media/logo-waves-gym.svg": "/WavesGym/static/media/logo-waves-gym.e082cee499235071b327a0211f806d80.svg",
+    "index.html": "/WavesGym/index.html",
+    "main.dd9e2b78.css.map": "/WavesGym/static/css/main.dd9e2b78.css.map",
+    "main.b8973791.js.map": "/WavesGym/static/js/main.b8973791.js.map",
+    "563.cbeda223.chunk.js.map": "/WavesGym/static/js/563.cbeda223.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd9e2b78.css",
+    "static/js/main.b8973791.js"
+  ]
+}
